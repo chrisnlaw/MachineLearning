@@ -1,10 +1,6 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
-"""
-Created on Fri May 25 21:26:30 2018
-
-@author: christian
-"""
+ 
 
 
 import matplotlib.pyplot as plt
