@@ -1,0 +1,133 @@
+html, body {
+ margin:0;
+ padding:0;
+ }
+html {
+      background-image: url("1.jpg");
+    /* Full height */
+   
+  margin:0px;
+  padding: :0px;
+}
+
+    h1
+{
+    text-align: center;
+     
+
+}
+
+ 
+ #intro{ 
+     
+    text-align: center;
+    color: white;
+    
+img{
+    display: block;
+    margin : auto;
+     }
+     
+}
+
+ #importation{ 
+
+    text-align: center;
+    color: black;
+    
+img{
+    display: block;
+    margin : auto;
+     }
+     
+}
+
+#analysedonne{ 
+
+    text-align: center;
+    color: black;
+    
+img{
+    display: block;
+    margin : auto;
+     }
+     
+}
+
+#variable{ 
+
+    text-align: center;
+    color: black;
+    
+img{
+    display: block;
+    margin : center;
+     }
+     
+}
+
+#attribut{ 
+
+    text-align: center;
+    color: black;
+    
+img{
+    display: block;
+    margin : auto;
+     }
+     
+}
+#algo{ 
+
+    text-align: left;
+    color: black;
+    
+img{
+    display: block;
+    margin : right;
+     }
+     
+}
+#conclu{ 
+
+    text-align: center;
+    color: black;
+    
+img{
+    display: block;
+    margin : auto;
+     }
+     
+}
+
+header
+{
+    background-color:black;
+    height:150px;
+    top:0px;
+    margin:0px;
+    padding: :0px;
+
+}
+#bloc-page{ 
+
+    text-align: center;
+    color: white;
+    h1
+{
+    text-align: center;
+     color: white;
+     margin:0px;
+     padding: :0px;
+
+}
+
+   } 
+
+#algo{ 
+
+    text-align: center;
+    color: black;
+
+
+   } 
