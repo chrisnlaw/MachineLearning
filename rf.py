@@ -1,10 +1,6 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Apr 23 12:56:13 2018
-
-@author: christian
-"""
+ 
 import itertools
 from sklearn.cross_validation import train_test_split
 from sklearn.metrics import accuracy_score ,confusion_matrix
