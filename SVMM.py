@@ -1,10 +1,5 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
-"""
-Created on Fri May 25 20:14:48 2018
-
-@author: christian
-"""
 
 import itertools
 from sklearn.cross_validation import train_test_split
