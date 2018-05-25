@@ -4,17 +4,17 @@
 
 ## Prerequisites :
 
-*You will find The database on the Dataset Folder.
-*You will need The database and Python(v2.7). 
+- You will find The database on the Dataset Folder.
+- You will need The database and Python(v2.7). 
 
 ## Algorithm :
 
 the implemented algorithms will be:
 
-*KNN (K-nearest neighbors)
-*SVM ( Support Vector Machine)
-*Random Forest
-*Logistic Regression
+- KNN (K-nearest neighbors)
+- SVM ( Support Vector Machine)
+- Random Forest
+- Logistic Regression
 
 ## HTML-Interface :
 
