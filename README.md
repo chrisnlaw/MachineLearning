@@ -2,7 +2,7 @@
  
 4th Year of engineer school project, the goal of the project is to make a predictive analysis to prevent the resignation of employees using python and Machine Learning Algortithm
 
-## . Prerequisites
+## Prerequisites
 
 -You will find The database on the Dataset Folder . 
 -You will need The database and Python(v2.7). 
