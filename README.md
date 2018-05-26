@@ -18,10 +18,11 @@ the implemented algorithms will be:
 
 ## HTML-Interface :
 
-python code that generate a semi-dynamic interface that summup the project and the results .
-By changing the features of the trainig set you will get different plots and results in the interface .
-You will be able to play with the dataset (change the number of features or the features ..) to optimize the results and test others options .
+- python code that generate a semi-dynamic interface that summup the project and the results .
+- By changing the features of the trainig set you will get different plots and results in the interface .
+- You will be able to play with the dataset (change the number of features or the features ..) to optimize the results and test others options .
 
-Python libraries: dominate 
+Python libraries: dominate ,
+Python File: upload.py 
 
  
